@@ -3,45 +3,45 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Alejandro Romero Herrera
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: alromh87@gmail.com
+    phone:
+    website: alexite05.blogspot.mx/ #do not add http://
+    linkedin:
+    github: alromh87
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Profesional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Imprving life by technology
         link:
 
-      - item: Snowboarding
+      - item: Outdoors
         link:
 
-      - item: Cooking
+      - item: Dancing
         link:
 
 career-profile:
@@ -69,9 +69,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in electronics engineering
+      university: Monterrey Institute of Technology and Higher Education
+      time: 2005 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -178,23 +178,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Realtime Linux & Embedded
         level: 98%
 
-      - name: Angular
+      - name: Arduino & electronics
+        level: 98%
+
+      - name: Digital manufacturing
+        level: 98%
+
+      - name: Python
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 99%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javascript & jQuery & Mootools
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Relational DB
+        level: 98%
+
+      - name: Arduino & JNI
+        level: 90%
+
+      - name: React Native
+        level: 55%
+
+      - name: Non relational DB
+        level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Building a better world through Innovation and technology
