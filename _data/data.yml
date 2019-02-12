@@ -35,7 +35,7 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Imprving life by technology
+      - item: Improving life by technology
         link:
 
       - item: Outdoors
@@ -44,65 +44,59 @@ sidebar:
       - item: Dancing
         link:
 
+      - item: Cleaning up the neighborhood
+        link: https://preciousplastic.com/
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Lead Engineer with bast experience in web based and distributed solutions.
+      Confident with web environments, server and architecture setups as well as with low level and mobile
+      application programming.
 
-      Second paragraph if required.
+      Leading and communication abilities to improve solutions quality and reduce time to market.
+      Goal oriented and capable of turning technological dreams into reality.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Engineering Science (In process)
+      university: Ibero-American University
+      time: 2015 - 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        For my Master Degree I have been working with unmanned aerial vehicles
+        in order to provide them with indoor flight capabilities assisted by onboard sensors.
 
-          - Bullet point
-          - Bullet point
+          - Real-time Linux
+          - Simultaneous Location and Mapping (SLAM)
+          - Robot Operating System (ROS
 
-    - degree: BSc in electronics engineering
+    - degree: BSc in Electronics Engineering
       university: Monterrey Institute of Technology and Higher Education
       time: 2005 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        As a bachelor student I had the opportunity to integrate acquired knowledge trough different projects involving
+        electronics, software development, real-time and mobile operating systems, artificial intelligence and mechanics, among others.
+        Developing strong self learning skills, team work and problem solving through technology.
 
-          - Bullet point
-          - Bullet point
+          - Distant Heart deceases monitoring and diagnosis using neural networks, mobile phone and custom ECG hardware
+          - CNC Milling machine using realtime linux
+          - Robotic arm for education and 3D graphics control software
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Engineer
+      time: 2011 - Present
+      company: “Policía Federal, División Científica” Mexican Federal Police, Scientific Division
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: 2010 - 2011
+      company: Glider Software Solutions
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,9 +107,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
+    - role: Software Engineer
       time: 2012 - 2014
-      company: Amazon, London
+      company: “Secretaría de Seguridad Publica Federal” Secretary for National Security
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -142,18 +136,6 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -162,17 +144,13 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Mobile System for Detecting and Diagnosing Heart Diseases
+        authors: M. Vega, C. Vázquez, J. Naranjo, A. Preciado, A. Romero, and C. Heras
+        conference: IASTED (TAT 2009), November 2009, Cambridge, Massachusetts, USA 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Intelligent Open-hardware ECG Platform for the Heart Patients Control and Diagnosis
+        authors: A. Romero, C. Heras, M. Vega, J. Naranjo, C. Vázquez, and A. Preciado
+        conference: IASTED (AIA 2010), February 2010, Innsbruck, Austria 
 
 skills:
     title: Skills &amp; Proficiency
@@ -196,13 +174,13 @@ skills:
       - name: HTML5 & CSS
         level: 99%
 
-      - name: Javascript & jQuery & Mootools
+      - name: Javascript & jQuery / Mootools
         level: 98%
 
       - name: Relational DB
         level: 98%
 
-      - name: Arduino & JNI
+      - name: Android & JNI
         level: 90%
 
       - name: React Native
@@ -212,4 +190,4 @@ skills:
         level: 40%
 
 footer: >
-    Building a better world through Innovation and technology
+    Building a better world through Innovation and Technology
