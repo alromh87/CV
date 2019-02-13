@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Alejandro Romero Herrera
@@ -17,19 +17,19 @@ sidebar:
     website: alexite05.blogspot.mx/ #do not add http://
     linkedin:
     github: alromh87
-    gitlab:
+    gitlab: alromh87
     bitbucket:
     twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: # Number/Username
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: # Number-Username
 
     languages:
       - idiom: Spanish
         level: Native
 
       - idiom: English
-        level: Profesional
+        level: Professional
 
       - idiom: French
         level: Basic
@@ -38,7 +38,13 @@ sidebar:
       - item: Improving life by technology
         link:
 
+      - item: Aerial photography and drone development
+        link:
+
       - item: Outdoors
+        link:
+
+      - item: Climbing
         link:
 
       - item: Dancing
@@ -50,98 +56,125 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Lead Engineer with bast experience in web based and distributed solutions.
-      Confident with web environments, server and architecture setups as well as with low level and mobile
-      application programming.
+      Lead Engineer with plenty experience on network distributed systems, software architecture design, product design, quick prototyping and manufacturing.
+      Confident with web technologies, service oriented architecture design, real-time communications, sensor interfacing, computer graphics,
+      digital manufacturing and embedded systems as well as low level and mobile application programming.
 
-      Leading and communication abilities to improve solutions quality and reduce time to market.
-      Goal oriented and capable of turning technological dreams into reality.
+      Passionate about inspiring, mentoring and empowering talent, I enjoy challenges, learning and sharing knowledge, capable of solving complex problems by
+      using available technology in innovative ways and building new technologies when needed, goal oriented and experienced in transforming existing
+      technologies to solve emerging challenges. I have been awarded by national government with "First Class Technological award from Mexican Federal Police"
+      and "Award for outstanding work on behalf of Mexican's peace and safety".
 
 education:
-    - degree: MSc in Engineering Science (In process)
+    - degree: MSc in Engineering Science (In progress)
       university: Ibero-American University
-      time: 2015 - 
+      time: 2015 - 2017
       details: |
         For my Master Degree I have been working with unmanned aerial vehicles
         in order to provide them with indoor flight capabilities assisted by onboard sensors.
+        The final goal is to create semi-autonomous indoor flying robots capable of capturing 3D scenes
+        of life-threatening indoor environments and display via immersive interfaces using web technologies.
 
           - Real-time Linux
           - Simultaneous Location and Mapping (SLAM)
-          - Robot Operating System (ROS
+          - Robot Operating System (ROS)
+          - WebGL
 
     - degree: BSc in Electronics Engineering
       university: Monterrey Institute of Technology and Higher Education
       time: 2005 - 2010
       details: |
-        As a bachelor student I had the opportunity to integrate acquired knowledge trough different projects involving
+        As bachelor student I had the opportunity to integrate acquired knowledge trough different projects involving
         electronics, software development, real-time and mobile operating systems, artificial intelligence and mechanics, among others.
         Developing strong self learning skills, team work and problem solving through technology.
 
           - Distant Heart deceases monitoring and diagnosis using neural networks, mobile phone and custom ECG hardware
           - CNC Milling machine using realtime linux
           - Robotic arm for education and 3D graphics control software
+          - Live stream and remote robotic control system
 
 experiences:
     - role: Lead Engineer
       time: 2011 - Present
       company: “Policía Federal, División Científica” Mexican Federal Police, Scientific Division
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        architecto beatae vitae dicta sunt explicabo.
+        Currently I lead a group of engineers to develop science and technology for public safety,
+        ranging from Information Technology to Unmanned Aerial Vehicles.
 
-          - Bullet point
-          - Bullet point
+        As part of my job I have particpated as Speaker in Technological forums,
+        talking about applying passion and talent for technology to Serve and Protect,
+        promoting opensource and solving global problems.
+
+        Among others I have developed:
+
+          - Biometric information gathering solution
+          - Realtime Geo-information platform
+          - Low power GPS Tracker
+          - GPS Tracker App
+          - Mobile biometric identification systems
+          - Digital inmersive experiences using OpenCV, WebGL and Augmented Reality
+          - Software platform for reconfigurable and adaptive robotics solutions remotely controlled from mobile devices
+          - Digitalmanufacturing machines 3D printers, plasma cutters and CNC milling
 
     - role: Software Engineer
       time: 2010 - 2011
       company: Glider Software Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Develop new functionalities to existing Process Oriented banking solutions as well as architecture design and development of new web platforms 
 
-          - Bullet point
-          - Bullet point
+          - Java, AJAX, SOA, WebLogic and Oracle BPM
+          - Grails, CentOS, PostgreSQL
+          - Websites using Joomla, Drupal and Wordpress
 
-    - role: Software Engineer
-      time: 2012 - 2014
-      company: “Secretaría de Seguridad Publica Federal” Secretary for National Security
+    - role: Webmaster
+      time: 2009
+      company: “Lotería Nacional para la Asistencia Publica” Mexican National Lottery
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Security and performance auditing and improvement of a multiuser web system and design and
+        implementation of live streaming web solution for massive event broadcasting.
 
-          - Bullet point
-          - Bullet point
+          - Auditing of existing and performance tunning of existing system based on Java, JSF, Oracle SQL Server, FTP transactions and bash scripting for Solaris.
+          - Design and implementation of a performance testing and stressing tool based on iMacros, Debian and bash scripting
+          - Content Delivery Network based on Icecast, Theora, Web Viewer programming based on early HTML5 video tag with Cortado streaming applet fallback.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I love solving problems using technology and sharing with others, as an OpenSource advocate
+      I have contributed to projects related to digital manufacturing, biometric identification, plastic waste recycling,
+      PCB production, embedded Linux and drones.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: pcbProducer4linuxCNC
+        link: "https://github.com/alromh87/pcbProducer4linuxCNC"
+        tagline: "Tools to build pcb from pcb2gcode using linuxCNC, including Z Probing and compensation"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: NBIS-python
+        link: "https://github.com/alromh87/NBIS-python"
+        tagline: "NBIS support from python"
+
+      - title: pyMorphoILV
+        link: "https://github.com/alromh87/pyMorphoILV"
+        tagline: "Userspace Morpho ILV Driver for fingerprint scanner"
+
+      - title: pyHIDvcom
+        link: "https://github.com/alromh87/pyHIDvcom"
+        tagline: "SWIG wrapper classes to use HID Bio SDK from python"
+
+      - title: Dave Hakkens Wordpress theme
+        link: "https://davehakkens.nl"
+        tagline: "WordPress theme for the new Dave Hakkens website"
+
+      - title: Precious Plastic Map
+        link: "https://github.com/alromh87/precious-plastic-map"
+        tagline: "Find precious plastic near you"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Interested on improving peoples life's through readily available technologies 
+      I have worked on combining mobile technologies, Artificial Intelligence, GPS and Electronics
+      to monitor, prevent, detect and respond to health threats
 
     papers:
       - title: Mobile System for Detecting and Diagnosing Heart Diseases
@@ -156,7 +189,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux
+      - name: Linux administration and customization
         level: 98%
 
       - name: Realtime Linux & Embedded
@@ -172,7 +205,10 @@ skills:
         level: 98%
 
       - name: HTML5 & CSS
-        level: 99%
+        level: 90%
+
+      - name: WebGL and threeJS 
+        level: 85%
 
       - name: Javascript & jQuery / Mootools
         level: 98%
@@ -184,10 +220,16 @@ skills:
         level: 90%
 
       - name: React Native
-        level: 55%
+        level: 50%
 
       - name: Non relational DB
-        level: 40%
+        level: 35%
+
+      - name: OpenSCAD
+        level: 85%
+
+      - name: ROS
+        level: 50%
 
 footer: >
     Building a better world through Innovation and Technology
