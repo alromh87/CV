@@ -213,6 +213,9 @@ skills:
       - name: WebGL and three.js 
         level: 85%
 
+      - name: WebSockets & WebWorkers
+        level: 75%
+
       - name: Javascript & jQuery / Mootools
         level: 98%
 
