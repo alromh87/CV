@@ -114,7 +114,7 @@ experiences:
           - Mobile biometric identification systems
           - Digital inmersive experiences using OpenCV, WebGL and Augmented Reality
           - Software platform for reconfigurable and adaptive robotics solutions remotely controlled from mobile devices
-          - Digitalmanufacturing machines 3D printers, plasma cutters and CNC milling
+          - Digital manufacturing machines 3D printers, plasma cutters and CNC milling
 
     - role: Software Engineer
       time: 2010 - 2011
@@ -204,22 +204,25 @@ skills:
       - name: Python
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Web Server technologies (PHP, NodeJS)
+        level: 98%
+
+      - name: HTML5 & CSS / Less.js
         level: 90%
 
-      - name: WebGL and threeJS 
+      - name: WebGL and three.js 
         level: 85%
 
       - name: Javascript & jQuery / Mootools
         level: 98%
 
-      - name: Relational DB
+      - name: Relational DB (MySQL, PostgreSQL, OracleSQL, RethinkDB, SQLite)
         level: 98%
 
       - name: Android & JNI
         level: 90%
 
-      - name: React Native
+      - name: React Native / Cordova
         level: 50%
 
       - name: Non relational DB
@@ -230,6 +233,12 @@ skills:
 
       - name: ROS
         level: 50%
+
+      - name: Bash
+        level: 90%
+
+      - name: PX4/Ardupilot
+        lavel: 50%
 
 footer: >
     Building a better world through Innovation and Technology
