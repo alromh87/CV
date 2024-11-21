@@ -32,7 +32,7 @@ sidebar:
         level: Bilingual
 
       - idiom: French
-        level: Elemetary
+        level: Elementary
 
       - idiom: German
         level: Elementary
@@ -59,42 +59,44 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Lead Engineer with plenty experience on network distributed systems, software architecture design, product design, quick prototyping and manufacturing.
-      Confident with web technologies, service oriented architecture design, real-time communications, sensor interfacing, computer graphics,
-      digital manufacturing and embedded systems as well as low level and mobile application programming.
+      Lead Engineer with extensive experience in networked distributed systems, software architecture, product design, rapid prototyping, and manufacturing.
+      Skilled in web technologies, service-oriented architecture, real-time communications, sensor interfacing, computer graphics, digital manufacturing, and embedded systems, as well as low-level and mobile application programming.
+      Adept at leveraging cutting-edge technology to design and deliver innovative solutions that address complex challenges, while seamlessly bridging the gap from bare metal to user experience.
 
-      Passionate about inspiring, mentoring and empowering talent, I enjoy challenges, learning and sharing knowledge, capable of solving complex problems by
-      using available technology in innovative ways and building new technologies when needed, goal oriented and experienced in transforming existing
-      technologies to solve emerging challenges. I have been awarded by national government with "First Class Technological award from Mexican Federal Police"
-      and "Award for outstanding work on behalf of Mexican's peace and safety".
+      Passionate about mentoring and empowering talent, I thrive on solving problems, learning, and sharing knowledge.
+      With a proven track record of transforming technologies to address emerging challenges,
+      I am recognized for delivering impactful results, including being honored with the "First Class Technological Award" by the Mexican Federal Police
+      and the "Award for Outstanding Work on Behalf of Mexico’s Peace and Safety." Driven by a goal-oriented mindset, I excel in turning ambitious visions into tangible realities.
 
 education:
     - degree: MSc in Engineering Science (In progress)
       university: Ibero-American University
       time: 2015 - 2017
       details: |
-        For my Master Degree I have been working with unmanned aerial vehicles
-        in order to provide them with indoor flight capabilities assisted by onboard sensors.
-        The final goal is to create semi-autonomous indoor flying robots capable of capturing 3D scenes
-        of life-threatening indoor environments and display via immersive interfaces using web technologies.
+        For my Master’s degree, I focused on developing innovative solutions for unmanned aerial vehicles (UAVs) to enable indoor flight capabilities using advanced onboard sensors.
+        The ultimate goal was to create semi-autonomous indoor flying robots capable of capturing 3D scenes in life-threatening environments and presenting them through immersive interfaces powered by web technologies.
 
-          - Real-time Linux
-          - Simultaneous Location and Mapping (SLAM)
-          - Robot Operating System (ROS)
-          - WebGL
+        ###### Key Technologies and Skills:
+
+          - Real-Time Linux: Ensured precise, time-critical operations for UAV control.
+          - Simultaneous Localization and Mapping (SLAM): Implemented real-time mapping and navigation for complex indoor environments.
+          - Robot Operating System (ROS): Leveraged ROS for modular, scalable robotics development.
+          - WebGL: Developed interactive 3D visualization for immersive and user-friendly displays.
 
     - degree: BSc in Electronics Engineering
       university: Monterrey Institute of Technology and Higher Education
       time: 2005 - 2010
       details: |
-        As bachelor student I had the opportunity to integrate acquired knowledge trough different projects involving
-        electronics, software development, real-time and mobile operating systems, artificial intelligence and mechanics, among others.
-        Developing strong self learning skills, team work and problem solving through technology.
+        As a bachelor’s student, I had the opportunity to apply and integrate my knowledge through diverse projects involving electronics, system architecture, hardware design, software development,
+        real-time and mobile operating systems, artificial intelligence, and mechanics, among others.
+        These experiences helped me develop strong self-learning abilities, teamwork skills, and a passion for problem-solving through technology.
 
-          - Distant Heart deceases monitoring and diagnosis using neural networks, mobile phone and custom ECG hardware
-          - CNC Milling machine using realtime linux
-          - Robotic arm for education and 3D graphics control software
-          - Live stream and remote robotic control system
+        ###### Key Projects:
+
+          - Distant Heart Disease Monitoring and Diagnosis: Developed a system using neural networks, a mobile phone, and custom ECG hardware for real-time health monitoring and diagnosis.
+          - CNC Milling Machine: Designed and implemented a milling machine powered by real-time Linux for precision manufacturing.
+          - Educational Robotic Arm: Built a robotic arm for education purposes, integrating 3D graphics control software for enhanced usability and interaction.
+          - Live Stream and Remote Robotic Control System: Created a system enabling live streaming and remote control of robotic camera.
 
 experiences:
     - role: Technology Solutions Architect
@@ -104,15 +106,15 @@ experiences:
         As an Independent Technology Solutions Architect, I am currently developing meaningful, high-impact solutions across diverse fields, including climate change mitigation,
         transportation systems, and STEAM (Science, Technology, Engineering, Arts, and Mathematics) education.
 
-        - GIS Platform for Climate Change Mitigation:
+          - GIS Platform for Climate Change Mitigation:
           Designed and developed a platform to combat climate change by integrating and sharing critical data on air quality, disease prevalence, and contaminant sources.
           This solution facilitates informed decision-making for public policy and actionable environmental initiatives.
 
-        - Transportation System Optimization:
+          - Transportation System Optimization:
           Achieved a 13-fold improvement (92.5% reduction in transaction time), reducing smart card processing times from 8 seconds to just 600 milliseconds.
           Additionally, implemented a highly configurable remote administration and fleet management system, significantly enhancing efficiency and scalability.
 
-       -  FIRST Robotics Mentor:
+         -  FIRST Robotics Mentor:
           Guided the record-time development of a swerve-driven robot, celebrated for its high speed, low profile, lightweight construction, and robust design.
           Integrated artificial intelligence capabilities and enabled on-field reconfiguration, delivering an exceptional solution for competitive robotics.
 
@@ -128,7 +130,7 @@ experiences:
         where I shared insights on leveraging passion and talent in technology to serve and protect communities.
         My presentations highlighted the importance of open-source innovation and its potential to address global challenges, inspiring audiences to harness technology for meaningful impact.
 
-        Among others I have developed:
+        ###### Among others I have developed:
 
           - Biometric Information Gathering Solution:
             Designed and implemented a robust system for collecting and processing biometric data with precision and security.
@@ -160,10 +162,11 @@ experiences:
       details: |
         Specialized in web application development using technologies such as Applets, Servlets, AJAX, Oracle WebLogic, Oracle BPM, GRAILS, and WordPress.
 
-        Key responsibilities included:
+        ###### Key responsibilities included:
 
           - Enhancing Process-Oriented Banking Solutions:
             Designed and developed new functionalities to optimize and expand existing banking processes, ensuring seamless integration and improved performance.
+
           - Architecting and Developing New Web Platforms:
             Led the architecture design and implementation of robust, scalable web platforms tailored to meet diverse client needs, delivering innovative, user-centric solutions.
 
@@ -171,15 +174,15 @@ experiences:
       time: 2009
       company: “Lotería Nacional para la Asistencia Publica” Mexican National Lottery
       details: |
-          - Auditing of existing and performance tunning of existing system based on Java, JSF, Oracle SQL Server, FTP transactions and bash scripting for Solaris.
-          - Design and implementation of a performance testing and stressing tool based on iMacros, Debian and bash scripting
-          - Content Delivery Network based on Icecast, Theora, Web Viewer programming based on early HTML5 video tag with Cortado streaming applet fallback.
+        - Auditing of existing and performance tunning of existing system based on Java, JSF, Oracle SQL Server, FTP transactions and bash scripting for Solaris.
+        - Design and implementation of a performance testing and stressing tool based on iMacros, Debian and bash scripting
+        - Content Delivery Network based on Icecast, Theora, Web Viewer programming based on early HTML5 video tag with Cortado streaming applet fallback.
 
         Security and Performance Auditing & Improvement
 
         Conducted security and performance auditing for a multi-user web system and led the design and implementation of a live streaming web solution for massive event broadcasting.
 
-        Key Contributions:
+        ###### Key Contributions:
 
           - System Auditing and Performance Optimization:
             Performed a comprehensive audit and performance tuning of an existing system built with Java, JSF, Oracle SQL Server, FTP transactions, and bash scripting for Solaris, ensuring enhanced security and efficiency.
@@ -189,6 +192,17 @@ experiences:
 
           - Real-Time Live Event Transmission Solution:
             Designed and implemented a web-based live streaming system using Icecast, Theora, and a web viewer solution. Incorporated HTML5 video tags with a fallback to the Cortado streaming applet to deliver seamless real-time broadcasting for large-scale events.
+
+    - role: Technical Support and System development
+      time: 2007 - 2009
+      company: “Secretaría de Seguridad Publica Federal” Mexican Federal Public Security Secretariat
+      details: |
+        During my school years, I began my journey in Technical Support and quickly transitioned into System Development due to my growing expertise. My work focused on developing solutions using technologies such as PHP, MySQL, Qt, and Gentoo Linux.
+
+        ###### Key Contributions:
+
+
+          - Administrative Web Systems: Designed and implemented web-based solutions for managing visitors, meeting halls, related services, allowed vehicles, and parking spaces, streamlining administrative processes and enhancing operational efficiency.
 
 projects:
     title: Projects
