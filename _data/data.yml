@@ -78,10 +78,10 @@ education:
 
         ###### Key Technologies and Skills:
 
-          - Real-Time Linux: Ensured precise, time-critical operations for UAV control.
-          - Simultaneous Localization and Mapping (SLAM): Implemented real-time mapping and navigation for complex indoor environments.
-          - Robot Operating System (ROS): Leveraged ROS for modular, scalable robotics development.
-          - WebGL: Developed interactive 3D visualization for immersive and user-friendly displays.
+          - **Real-Time Linux:** Ensured precise, time-critical operations for UAV control.
+          - **Simultaneous Localization and Mapping (SLAM):** Implemented real-time mapping and navigation for complex indoor environments.
+          - **Robot Operating System (ROS):** Leveraged ROS for modular, scalable robotics development.
+          - **WebGL:** Developed interactive 3D visualization for immersive and user-friendly displays.
 
     - degree: BSc in Electronics Engineering
       university: Monterrey Institute of Technology and Higher Education
@@ -93,10 +93,10 @@ education:
 
         ###### Key Projects:
 
-          - Distant Heart Disease Monitoring and Diagnosis: Developed a system using neural networks, a mobile phone, and custom ECG hardware for real-time health monitoring and diagnosis.
-          - CNC Milling Machine: Designed and implemented a milling machine powered by real-time Linux for precision manufacturing.
-          - Educational Robotic Arm: Built a robotic arm for education purposes, integrating 3D graphics control software for enhanced usability and interaction.
-          - Live Stream and Remote Robotic Control System: Created a system enabling live streaming and remote control of robotic camera.
+          - **Remote Heart Disease Monitoring and Diagnosis:** Developed a system using neural networks, a mobile phone, and custom ECG hardware for real-time health monitoring and diagnosis.
+          - **CNC Milling Machine:** Designed and implemented a milling machine powered by real-time Linux for precision manufacturing.
+          - **Educational Robotic Arm:** Built a robotic arm for education purposes, integrating 3D graphics control software for enhanced usability and interaction.
+          - **Live Stream and Remote Robotic Control System:** Created a system enabling live streaming and remote control of robotic camera.
 
 experiences:
     - role: Technology Solutions Architect
@@ -106,15 +106,15 @@ experiences:
         As an Independent Technology Solutions Architect, I am currently developing meaningful, high-impact solutions across diverse fields, including climate change mitigation,
         transportation systems, and STEAM (Science, Technology, Engineering, Arts, and Mathematics) education.
 
-          - GIS Platform for Climate Change Mitigation:
+          - **GIS Platform for Climate Change Mitigation:**
           Designed and developed a platform to combat climate change by integrating and sharing critical data on air quality, disease prevalence, and contaminant sources.
           This solution facilitates informed decision-making for public policy and actionable environmental initiatives.
 
-          - Transportation System Optimization:
+          - **Transportation System Optimization:**
           Achieved a 13-fold improvement (92.5% reduction in transaction time), reducing smart card processing times from 8 seconds to just 600 milliseconds.
           Additionally, implemented a highly configurable remote administration and fleet management system, significantly enhancing efficiency and scalability.
 
-         -  FIRST Robotics Mentor:
+         - **FIRST Robotics Mentor:**
           Guided the record-time development of a swerve-driven robot, celebrated for its high speed, low profile, lightweight construction, and robust design.
           Integrated artificial intelligence capabilities and enabled on-field reconfiguration, delivering an exceptional solution for competitive robotics.
 
@@ -132,28 +132,28 @@ experiences:
 
         ###### Among others I have developed:
 
-          - Biometric Information Gathering Solution:
+          - **Biometric Information Gathering Solution:**
             Designed and implemented a robust system for collecting and processing biometric data with precision and security.
 
-          - Real-Time Geo-Information Platform:
+          - **Real-Time Geo-Information Platform:**
             Built a dynamic platform for real-time geospatial data analysis and visualization, enabling informed decision-making.
 
-          - Low-Power GPS Tracker:
+          - **Low-Power GPS Tracker:**
             Developed a compact, energy-efficient GPS tracking device optimized for extended usage in various applications.
 
-          - GPS Tracker App:
+          - **GPS Tracker App:**
             Created a user-friendly mobile application for seamless GPS tracking and monitoring.
 
-          - Mobile Biometric Identification Systems:
+          - **Mobile Biometric Identification Systems:**
             Engineered portable biometric systems for secure identification in diverse environments.
 
-          - Digital Immersive Experiences:
+          - **Digital Immersive Experiences:**
             Developed advanced digital experiences using OpenCV, WebGL, and Augmented Reality, merging creativity with cutting-edge technology.
 
-          - Reconfigurable and Adaptive Robotics Platform:
+          - **Reconfigurable and Adaptive Robotics Platform:**
             Designed a software platform for remotely controlled robotics solutions, adaptable to changing needs and operable from mobile devices.
 
-          - Digital Manufacturing Machines:
+          - **Digital Manufacturing Machines:**
             Built and refined 3D printers, plasma cutters, and CNC milling machines, driving innovation in digital fabrication.
 
     - role: Software Engineer
@@ -164,10 +164,10 @@ experiences:
 
         ###### Key responsibilities included:
 
-          - Enhancing Process-Oriented Banking Solutions:
+          - **Enhancing Process-Oriented Banking Solutions:**
             Designed and developed new functionalities to optimize and expand existing banking processes, ensuring seamless integration and improved performance.
 
-          - Architecting and Developing New Web Platforms:
+          - **Architecting and Developing New Web Platforms:**
             Led the architecture design and implementation of robust, scalable web platforms tailored to meet diverse client needs, delivering innovative, user-centric solutions.
 
     - role: Webmaster & Security consultant
@@ -184,13 +184,13 @@ experiences:
 
         ###### Key Contributions:
 
-          - System Auditing and Performance Optimization:
+          - **System Auditing and Performance Optimization:**
             Performed a comprehensive audit and performance tuning of an existing system built with Java, JSF, Oracle SQL Server, FTP transactions, and bash scripting for Solaris, ensuring enhanced security and efficiency.
 
-          - Development of Performance Testing Tools:
+          - **Development of Performance Testing Tools:**
             Designed and implemented a custom performance testing and stress tool utilizing iMacros, Debian, and bash scripting to simulate real-world usage scenarios and optimize system responsiveness.
 
-          - Real-Time Live Event Transmission Solution:
+          - **Real-Time Live Event Transmission Solution:**
             Designed and implemented a web-based live streaming system using Icecast, Theora, and a web viewer solution. Incorporated HTML5 video tags with a fallback to the Cortado streaming applet to deliver seamless real-time broadcasting for large-scale events.
 
     - role: Technical Support and System development
@@ -202,7 +202,7 @@ experiences:
         ###### Key Contributions:
 
 
-          - Administrative Web Systems: Designed and implemented web-based solutions for managing visitors, meeting halls, related services, allowed vehicles, and parking spaces, streamlining administrative processes and enhancing operational efficiency.
+          - **Administrative Web Systems:** Designed and implemented web-based solutions for managing visitors, meeting halls, related services, allowed vehicles, and parking spaces, streamlining administrative processes and enhancing operational efficiency.
 
 projects:
     title: Projects
