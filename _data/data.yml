@@ -15,7 +15,7 @@ sidebar:
     email: alromh87@gmail.com
     phone:
     website: alexite05.blogspot.mx/ #do not add http://
-    linkedin:
+    linkedin: alromh87
     github: alromh87
     gitlab: alromh87
     bitbucket:
@@ -29,10 +29,13 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Bilingual
 
       - idiom: French
-        level: Intermediate
+        level: Elemetary
+
+      - idiom: German
+        level: Elementary
 
     interests:
       - item: Improving life by technology
@@ -94,55 +97,105 @@ education:
           - Live stream and remote robotic control system
 
 experiences:
+    - role: Technology Solutions Architect
+      time: 2019 - Present
+      company: Independent
+      details: |
+        As an Independent Technology Solutions Architect, I am currently developing meaningful, high-impact solutions across diverse fields, including climate change mitigation,
+        transportation systems, and STEAM (Science, Technology, Engineering, Arts, and Mathematics) education.
+
+        - GIS Platform for Climate Change Mitigation:
+          Designed and developed a platform to combat climate change by integrating and sharing critical data on air quality, disease prevalence, and contaminant sources.
+          This solution facilitates informed decision-making for public policy and actionable environmental initiatives.
+
+        - Transportation System Optimization:
+          Achieved a 13-fold improvement (92.5% reduction in transaction time), reducing smart card processing times from 8 seconds to just 600 milliseconds.
+          Additionally, implemented a highly configurable remote administration and fleet management system, significantly enhancing efficiency and scalability.
+
+       -  FIRST Robotics Mentor:
+          Guided the record-time development of a swerve-driven robot, celebrated for its high speed, low profile, lightweight construction, and robust design.
+          Integrated artificial intelligence capabilities and enabled on-field reconfiguration, delivering an exceptional solution for competitive robotics.
+
+
     - role: Lead Engineer
-      time: 2011 - Present
+      time: 2011 - 2019
       company: “Policía Federal, División Científica” Mexican Federal Police, Scientific Division
       details: |
-        Currently I lead a group of engineers to develop science and technology for public safety,
-        ranging from Information Technology to Unmanned Aerial Vehicles.
+        In this role, I led a team of engineers in developing cutting-edge science and technology solutions for public safety applications,
+        spanning domains such as Information Technology and Unmanned Aerial Vehicles (UAVs).
 
-        As part of my job I have particpated as Speaker in Technological forums,
-        talking about applying passion and talent for technology to Serve and Protect,
-        promoting opensource and solving global problems.
+        I also had the privilege of serving as a speaker at prominent technological forums,
+        where I shared insights on leveraging passion and talent in technology to serve and protect communities.
+        My presentations highlighted the importance of open-source innovation and its potential to address global challenges, inspiring audiences to harness technology for meaningful impact.
 
         Among others I have developed:
 
-          - Biometric information gathering solution
-          - Realtime Geo-information platform
-          - Low power GPS Tracker
-          - GPS Tracker App
-          - Mobile biometric identification systems
-          - Digital inmersive experiences using OpenCV, WebGL and Augmented Reality
-          - Software platform for reconfigurable and adaptive robotics solutions remotely controlled from mobile devices
-          - Digital manufacturing machines 3D printers, plasma cutters and CNC milling
+          - Biometric Information Gathering Solution:
+            Designed and implemented a robust system for collecting and processing biometric data with precision and security.
+
+          - Real-Time Geo-Information Platform:
+            Built a dynamic platform for real-time geospatial data analysis and visualization, enabling informed decision-making.
+
+          - Low-Power GPS Tracker:
+            Developed a compact, energy-efficient GPS tracking device optimized for extended usage in various applications.
+
+          - GPS Tracker App:
+            Created a user-friendly mobile application for seamless GPS tracking and monitoring.
+
+          - Mobile Biometric Identification Systems:
+            Engineered portable biometric systems for secure identification in diverse environments.
+
+          - Digital Immersive Experiences:
+            Developed advanced digital experiences using OpenCV, WebGL, and Augmented Reality, merging creativity with cutting-edge technology.
+
+          - Reconfigurable and Adaptive Robotics Platform:
+            Designed a software platform for remotely controlled robotics solutions, adaptable to changing needs and operable from mobile devices.
+
+          - Digital Manufacturing Machines:
+            Built and refined 3D printers, plasma cutters, and CNC milling machines, driving innovation in digital fabrication.
 
     - role: Software Engineer
       time: 2010 - 2011
       company: Glider Software Solutions
       details: |
-        Develop new functionalities to existing Process Oriented banking solutions as well as architecture design and development of new web platforms 
+        Specialized in web application development using technologies such as Applets, Servlets, AJAX, Oracle WebLogic, Oracle BPM, GRAILS, and WordPress.
 
-          - Java, AJAX, SOA, WebLogic and Oracle BPM
-          - Grails, CentOS, PostgreSQL
-          - Websites using Joomla, Drupal and Wordpress
+        Key responsibilities included:
 
-    - role: Webmaster
+          - Enhancing Process-Oriented Banking Solutions:
+            Designed and developed new functionalities to optimize and expand existing banking processes, ensuring seamless integration and improved performance.
+          - Architecting and Developing New Web Platforms:
+            Led the architecture design and implementation of robust, scalable web platforms tailored to meet diverse client needs, delivering innovative, user-centric solutions.
+
+    - role: Webmaster & Security consultant
       time: 2009
       company: “Lotería Nacional para la Asistencia Publica” Mexican National Lottery
       details: |
-        Security and performance auditing and improvement of a multiuser web system and design and
-        implementation of live streaming web solution for massive event broadcasting.
-
           - Auditing of existing and performance tunning of existing system based on Java, JSF, Oracle SQL Server, FTP transactions and bash scripting for Solaris.
           - Design and implementation of a performance testing and stressing tool based on iMacros, Debian and bash scripting
           - Content Delivery Network based on Icecast, Theora, Web Viewer programming based on early HTML5 video tag with Cortado streaming applet fallback.
 
+        Security and Performance Auditing & Improvement
+
+        Conducted security and performance auditing for a multi-user web system and led the design and implementation of a live streaming web solution for massive event broadcasting.
+
+        Key Contributions:
+
+          - System Auditing and Performance Optimization:
+            Performed a comprehensive audit and performance tuning of an existing system built with Java, JSF, Oracle SQL Server, FTP transactions, and bash scripting for Solaris, ensuring enhanced security and efficiency.
+
+          - Development of Performance Testing Tools:
+            Designed and implemented a custom performance testing and stress tool utilizing iMacros, Debian, and bash scripting to simulate real-world usage scenarios and optimize system responsiveness.
+
+          - Real-Time Live Event Transmission Solution:
+            Designed and implemented a web-based live streaming system using Icecast, Theora, and a web viewer solution. Incorporated HTML5 video tags with a fallback to the Cortado streaming applet to deliver seamless real-time broadcasting for large-scale events.
+
 projects:
     title: Projects
     intro: >
-      I love solving problems using technology and sharing with others, as an OpenSource advocate
-      I have contributed to projects related to digital manufacturing, biometric identification, plastic waste recycling,
-      PCB production, embedded Linux and drones.
+      I am passionate about solving problems through technology and sharing knowledge with others.
+      As an Open Source advocate, I have actively contributed to projects in areas such as digital manufacturing,
+      biometric identification, plastic waste recycling, PCB production, embedded Linux, and drone technology.
 
     assignments:
       - title: pcbProducer4linuxCNC
@@ -172,18 +225,18 @@ projects:
 publications:
     title: Publications
     intro: |
-      Interested on improving peoples life's through readily available technologies 
-      I have worked on combining mobile technologies, Artificial Intelligence, GPS and Electronics
-      to monitor, prevent, detect and respond to health threats
+      Driven by a passion for improving people's lives through readily available technologies,
+      I have focused on integrating mobile technologies, Artificial Intelligence,
+      GPS and electronics to create solutions that monitor, prevent, detect, and respond to health threats.
 
     papers:
       - title: Mobile System for Detecting and Diagnosing Heart Diseases
         authors: M. Vega, C. Vázquez, J. Naranjo, A. Preciado, A. Romero, and C. Heras
-        conference: IASTED (TAT 2009), November 2009, Cambridge, Massachusetts, USA 
+        conference: IASTED (TAT 2009), November 2009, Cambridge, Massachusetts, USA
 
       - title: Intelligent Open-hardware ECG Platform for the Heart Patients Control and Diagnosis
         authors: A. Romero, C. Heras, M. Vega, J. Naranjo, C. Vázquez, and A. Preciado
-        conference: IASTED (AIA 2010), February 2010, Innsbruck, Austria 
+        conference: IASTED (AIA 2010), February 2010, Innsbruck, Austria
 
 skills:
     title: Skills &amp; Proficiency
@@ -193,6 +246,9 @@ skills:
         level: 98%
 
       - name: Realtime Linux & Embedded
+        level: 98%
+
+      - name: DevOps
         level: 98%
 
       - name: Arduino & electronics
@@ -210,7 +266,7 @@ skills:
       - name: HTML5 & CSS / Less.js
         level: 90%
 
-      - name: WebGL and three.js 
+      - name: WebGL and three.js
         level: 85%
 
       - name: WebSockets & WebWorkers
@@ -222,10 +278,19 @@ skills:
       - name: Relational DB (MySQL, PostgreSQL, OracleSQL, RethinkDB, SQLite)
         level: 98%
 
+      - name: React
+        level: 70%
+
       - name: Android & JNI
         level: 90%
 
-      - name: React Native / Cordova
+      - name: Flutter
+        level: 70%
+
+      - name: React Native
+        level: 60%
+
+      - name: Cordova
         level: 50%
 
       - name: Non relational DB
@@ -235,7 +300,7 @@ skills:
         level: 85%
 
       - name: ROS
-        level: 50%
+        level: 60%
 
       - name: Bash
         level: 90%
