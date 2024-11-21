@@ -79,8 +79,11 @@ education:
         ###### Key Technologies and Skills:
 
           - **Real-Time Linux:** Ensured precise, time-critical operations for UAV control.
+
           - **Simultaneous Localization and Mapping (SLAM):** Implemented real-time mapping and navigation for complex indoor environments.
+
           - **Robot Operating System (ROS):** Leveraged ROS for modular, scalable robotics development.
+
           - **WebGL:** Developed interactive 3D visualization for immersive and user-friendly displays.
 
     - degree: BSc in Electronics Engineering
@@ -94,8 +97,11 @@ education:
         ###### Key Projects:
 
           - **Remote Heart Disease Monitoring and Diagnosis:** Developed a system using neural networks, a mobile phone, and custom ECG hardware for real-time health monitoring and diagnosis.
+
           - **CNC Milling Machine:** Designed and implemented a milling machine powered by real-time Linux for precision manufacturing.
+
           - **Educational Robotic Arm:** Built a robotic arm for education purposes, integrating 3D graphics control software for enhanced usability and interaction.
+
           - **Live Stream and Remote Robotic Control System:** Created a system enabling live streaming and remote control of robotic camera.
 
 experiences:
